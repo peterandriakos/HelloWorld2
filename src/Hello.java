@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Here ye, here ye: important announcement.");
 		System.out.println("Hello world!");
 		System.out.println("Hello world! (x2!!)");
+		System.out.println("That is all. Goodbye, peasants.");
 	}
 	
 }
